@@ -13,3 +13,11 @@ Leveraged analytical problem-solving skills to examine HR data, particularly foc
 and identified root causes for gender balance issues at the executive management level, highlighting a commitment to data-driven decision-making.
  
 
+## Skills
+- CALCULATING MEASURES,
+- DEFINING KPIS,
+- INSIGHT AND ACTIONS,
+- INSIGHTS AND ACTIONS,
+- POWER BI,
+- POWER BI DASHBOARD,
+- SELF-REFLECTION.
